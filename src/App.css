@@ -83,6 +83,10 @@ input[tpye="submit"]:hover {
   min-width: 170px;
 }
 
+.movie-details {
+  margin:auto;
+  margin-left:25px;
+}
 @media screen and (min-width:694px) and (max-width:915px) {
   
 }
