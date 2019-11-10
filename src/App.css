@@ -52,7 +52,8 @@
 
 .movie {
   padding: 5px 25px 10px 25px;
-  max-width: 25%;
+  
+  margin: auto;
 }
 
 .errorMessage {
@@ -80,9 +81,7 @@ input[tpye="submit"]:hover {
 }
 
 @media screen and (min-width:694px) and (max-width:915px) {
-  .movie {
-    max-width: 33%;
-  }
+  
 }
 
 @media screen and (min-width:652) and (max-width:693px) {
