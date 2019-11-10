@@ -56,6 +56,9 @@
   margin: auto;
 }
 
+.movie h2{
+  width:200px;
+}
 .errorMessage {
   margin: auto;
   font-weight: bold;
